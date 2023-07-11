@@ -1,6 +1,6 @@
 # Twitter Toxicity Classification
 
-This project aims to solve the problem of identifying the toxicity of tweets using Natural Language Processing (NLP) techniques. Given the dataset `twitter_parsed_tweets`, we will implement a step-by-step NLP approach to classify tweets into binary values based on their toxicity.
+This project aims to solve the problem of identifying the toxicity of tweets using Natural Language Processing (NLP) techniques. Given the dataset `twitter_parsed_tweets`, I will implement a step-by-step NLP approach to classify tweets into binary values based on their toxicity.
 
 ## Problem Statement
 
